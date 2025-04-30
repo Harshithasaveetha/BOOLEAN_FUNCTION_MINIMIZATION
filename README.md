@@ -1,5 +1,5 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
-
+Developed by:Harshitha D RegisterNumber:212224040110
 **AIM:**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
@@ -32,22 +32,24 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
-
-![Screenshot (140)](https://github.com/user-attachments/assets/81d0dfed-db88-44fb-b1af-0bebf220abe4)
-
-Developed by:Harshitha D RegisterNumber:212224040110
+![434217538-bec0bf19-542b-4d7e-a1e9-c1a016b4b312](https://github.com/user-attachments/assets/f320f026-b76d-4b17-a383-08578ca4cb6a)
 
 
-**RTL realization**
 
-**Output:**
+
+**Truthtable**
+
+
+
+![434217774-f93d1a04-1d5a-4a86-85ad-4e1f82f2e277](https://github.com/user-attachments/assets/4d6dc1bf-a529-4365-a1b7-ac3fc7a030f8)
 
 **RTL**
-![Screenshot (141)](https://github.com/user-attachments/assets/a0077f2a-f43d-479a-bd4a-28ab95cf3ebc)
+![434218248-1a005f65-03ec-454e-9a83-cae5443cef37](https://github.com/user-attachments/assets/b01518aa-1a40-446e-a719-1ed058fc71f6)
 
 
-**Timing Diagram**
-![2d](https://github.com/user-attachments/assets/16e1974c-965e-408d-90a6-c069219c0cdb)
+**Waveform**
+![434218408-bb70ac99-1573-4caa-8af0-c023fb93ace3](https://github.com/user-attachments/assets/1ff0b9fc-8f34-4013-8dc4-24bcd9cc9b80)
+
 
 **Result:**
 
